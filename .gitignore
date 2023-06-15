@@ -41,3 +41,8 @@
 !CMakeLists.txt
 *.gch
 .clangd/
+compile_commands.json
+*.session
+Makefile
+*.workspace
+*.project
